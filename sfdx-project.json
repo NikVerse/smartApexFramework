@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "smart-apf",
+      "default": true
+    }
+  ],
+  "name": "smartApexFramework",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "52.0"
+}
